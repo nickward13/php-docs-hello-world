@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hectagon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA3C81FC57BA46C6820D35B8051FB338 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B830A7D747B443FB10E58E0E8BE8213 }}
           package: .
